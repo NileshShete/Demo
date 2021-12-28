@@ -18,7 +18,7 @@ class Createpost extends Component{
          <div className='cp12'>
            <TextField label="ENTER YOUR TITILE"></TextField><br></br><br></br>
            <TextField label="DESCRIPTION" ></TextField><br></br><br></br><br></br><br></br>
-           <Button variant='outlined' color="primary" >SUBMIT</Button>
+           <Button variant='outlined' color="secondary" >SUBMIT</Button>
          </div>
          <Route path="/Homepage" component={Homepage}/>
 <footer class="page-footer font-small cyan darken-3"/>
